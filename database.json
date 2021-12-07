@@ -1,9 +1,29 @@
 {
-    "users": [],
-    "books": [],
-    "userBooks": [],
-    "shelves": [],
-    "bookNotes": [],
-    "follows": [],
-    "posts": []
+  "users": [
+    {
+      "firstName": "Alex",
+      "lastName": "Lewis",
+      "email": "alex@lewis.com",
+      "id": 1
+    }
+  ],
+  "books": [],
+  "userBooks": [],
+  "shelves": [
+    {
+      "id": 1,
+      "name": "Want to read"
+    },
+    {
+      "id": 2,
+      "name": "Currently reading"
+    },
+    {
+      "id": 3,
+      "name": "Read"
+    }
+  ],
+  "bookNotes": [],
+  "follows": [],
+  "posts": []
 }
