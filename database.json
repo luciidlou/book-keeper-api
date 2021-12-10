@@ -39,707 +39,785 @@
   ],
   "books": [
     {
-      "title": "The Overstory",
-      "author": "Richard Powers",
-      "publicationYear": "2018",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Overstory",
-      "id": 1
-    },
-    {
       "title": "The Lion, the Witch and the Wardrobe",
       "author": "C.S. Lewis",
       "publicationYear": "1950",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe",
+      "url": "https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe",
       "id": 2
     },
     {
       "title": "She: A History of Adventure",
       "author": "H. Rider Haggard",
       "publicationYear": "1887",
-      "wikiLink": "https://en.wikipedia.org/wiki/She:_A_History_of_Adventure",
+      "url": "https://en.wikipedia.org/wiki/She:_A_History_of_Adventure",
       "id": 3
     },
     {
       "title": "The Adventures of Pinocchio",
       "author": "Carlo Collodi",
       "publicationYear": "1883",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio",
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio",
       "id": 4
     },
     {
       "title": "The Da Vinci Code",
       "author": "Dan Brows",
       "publicationYear": "2003",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code",
+      "url": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code",
       "id": 5
     },
     {
       "title": "Harry Potter and the Chamber of Secrets",
       "author": "J.K Rowling",
       "publicationYear": "1998",
-      "wikiLink": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets",
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets",
       "id": 6
     },
     {
       "title": "Harry Potter and the Prisoner of Azkaban",
       "author": "J.K. Rowling",
       "publicationYear": "1999",
-      "wikiLink": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
       "id": 7
     },
     {
       "title": "Harry Potter and the Goblet of Fire",
       "author": "J.K. Rowling",
       "publicationYear": "2000",
-      "wikiLink": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
       "id": 8
     },
     {
       "title": "Harry Potter and the Order of the Phoenix",
       "author": "J.K. Rowling",
       "publicationYear": "2003",
-      "wikiLink": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix",
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix",
       "id": 9
     },
     {
       "title": "Harry Potter and the Half-Blood Prince",
       "author": "J.K. Rowling",
       "publicationYear": "2005",
-      "wikiLink": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince",
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince",
       "id": 10
     },
     {
       "title": "Harry Potter and the Deathly Hallows",
       "author": "J.K. Rowling",
       "publicationYear": "2007",
-      "wikiLink": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows",
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows",
       "id": 11
     },
     {
       "title": "The Alchemist",
       "author": "Paulo Coelho",
       "publicationYear": "1988",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Alchemist_(novel)",
+      "url": "https://en.wikipedia.org/wiki/The_Alchemist_(novel)",
       "id": 12
     },
     {
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "publicationYear": "1951",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye",
+      "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye",
       "id": 13
     },
     {
       "title": "The Bridges of Madison County",
       "author": "Robert James Waller",
       "publicationYear": "1992",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County",
+      "url": "https://en.wikipedia.org/wiki/The_Bridges_of_Madison_County",
       "id": 14
     },
     {
       "title": "Ben-Hur: A Tale of the Christ",
       "author": "Lew Wallace",
       "publicationYear": "1880",
-      "wikiLink": "https://en.wikipedia.org/wiki/Ben-Hur:_A_Tale_of_the_Christ",
+      "url": "https://en.wikipedia.org/wiki/Ben-Hur:_A_Tale_of_the_Christ",
       "id": 15
     },
     {
       "title": "You Can Heal Your Life",
       "author": "Louis L. Hay",
       "publicationYear": "1984",
-      "wikiLink": "https://en.wikipedia.org/wiki/You_Can_Heal_Your_Life",
+      "url": "https://en.wikipedia.org/wiki/You_Can_Heal_Your_Life",
       "id": 16
     },
     {
       "title": "One Hundred Years of Solitude",
       "author": "Gabriel García Márquez",
       "publicationYear": "1967",
-      "wikiLink": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
       "id": 17
     },
     {
       "title": "Lolita",
       "author": "Vladimir Nabokov",
       "publicationYear": "1955",
-      "wikiLink": "https://en.wikipedia.org/wiki/Lolita",
+      "url": "https://en.wikipedia.org/wiki/Lolita",
       "id": 18
     },
     {
       "title": "Heidi",
       "author": "Johanna Spyri",
       "publicationYear": "1880",
-      "wikiLink": "https://en.wikipedia.org/wiki/Heidi",
+      "url": "https://en.wikipedia.org/wiki/Heidi",
       "id": 19
     },
     {
       "title": "The Common Sense Book of Baby and Child Care",
       "author": "Benjamin Spock",
       "publicationYear": "1946",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Common_Sense_Book_of_Baby_and_Child_Care",
+      "url": "https://en.wikipedia.org/wiki/The_Common_Sense_Book_of_Baby_and_Child_Care",
       "id": 20
     },
     {
       "title": "Ann of Green Gables",
       "author": "Lucy Maud Montgomery",
       "publicationYear": "1908",
-      "wikiLink": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables",
+      "url": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables",
       "id": 21
     },
     {
       "title": "Black Beauty",
       "author": "Anna Sewell",
       "publicationYear": "1877",
-      "wikiLink": "https://en.wikipedia.org/wiki/Black_Beauty",
+      "url": "https://en.wikipedia.org/wiki/Black_Beauty",
       "id": 22
     },
     {
       "title": "The Name of the Rose",
       "author": "Umberto Eco",
       "publicationYear": "1980",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose",
+      "url": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose",
       "id": 23
     },
     {
       "title": "The Eagle Has Landed",
       "author": "Jack Higgins",
       "publicationYear": "1975",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Eagle_Has_Landed_(novel)",
+      "url": "https://en.wikipedia.org/wiki/The_Eagle_Has_Landed_(novel)",
       "id": 24
     },
     {
       "title": "Watership Down",
       "author": "Richard Adams",
       "publicationYear": "1972",
-      "wikiLink": "https://en.wikipedia.org/wiki/Watership_Down",
+      "url": "https://en.wikipedia.org/wiki/Watership_Down",
       "id": 25
     },
     {
       "title": "Charlotte's Web",
       "author": "E.B. White",
       "publicationYear": "1952",
-      "wikiLink": "https://en.wikipedia.org/wiki/Charlotte%27s_Web",
+      "url": "https://en.wikipedia.org/wiki/Charlotte%27s_Web",
       "id": 26
     },
     {
       "title": "The Ginger Man",
       "author": "J. P. Donleavy",
       "publicationYear": "1955",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Ginger_Man",
+      "url": "https://en.wikipedia.org/wiki/The_Ginger_Man",
       "id": 27
     },
     {
       "title": "The Tale of Peter Rabbit",
       "author": "Beatrix Potter",
       "publicationYear": "1902",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit",
+      "url": "https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit",
       "id": 28
     },
     {
       "title": "Jonathan Livingston Seagull",
       "author": "Richard Bach",
       "publicationYear": "1970",
-      "wikiLink": "https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull",
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull",
       "id": 29
     },
     {
       "title": "The Very Hungry Caterpillar",
       "author": "Eric Carle",
       "publicationYear": "1969",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar",
+      "url": "https://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar",
       "id": 30
     },
     {
       "title": "A Message to Garcia",
       "author": "Elbert Hubbard",
       "publicationYear": "1899",
-      "wikiLink": "https://en.wikipedia.org/wiki/A_Message_to_Garcia",
+      "url": "https://en.wikipedia.org/wiki/A_Message_to_Garcia",
       "id": 31
     },
     {
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "publicationYear": "1960",
-      "wikiLink": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+      "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
       "id": 32
     },
     {
       "title": "Flowers in the Attic",
       "author": "V.C. Andrews",
       "publicationYear": "1979",
-      "wikiLink": "https://en.wikipedia.org/wiki/Flowers_in_the_Attic",
+      "url": "https://en.wikipedia.org/wiki/Flowers_in_the_Attic",
       "id": 33
     },
     {
       "title": "Cosmos",
       "author": "Carl Sagan",
       "publicationYear": "1980",
-      "wikiLink": "https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)",
+      "url": "https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)",
       "id": 34
     },
     {
       "title": "The Hobbit",
       "author": "J. R. R. Tolkien",
       "publicationYear": "1937",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Hobbit",
+      "url": "https://en.wikipedia.org/wiki/The_Hobbit",
       "id": 35
     },
     {
       "title": "Harry Potter and the Philosopher's Stone",
       "author": "J.K. Rowling",
       "publicationYear": "1997",
-      "wikiLink": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
       "id": 36
     },
     {
       "title": "The Little Prince",
       "author": "Antoine de Saint-Exupéry",
       "publicationYear": "1943",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Little_Prince",
+      "url": "https://en.wikipedia.org/wiki/The_Little_Prince",
       "id": 37
     },
     {
       "title": "Dream of the Red Chamber",
       "author": "Cao Xueqin",
       "publicationYear": "1791",
-      "wikiLink": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber",
+      "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber",
       "id": 38
     },
     {
       "title": "And Then There Were None",
       "author": "Agatha Christie",
       "publicationYear": "1939",
-      "wikiLink": "https://en.wikipedia.org/wiki/And_Then_There_Were_None",
+      "url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None",
       "id": 39
     },
     {
       "title": "Sophie's World",
       "author": "Jostein Gaarder",
       "publicationYear": "1991",
-      "wikiLink": "https://en.wikipedia.org/wiki/Sophie%27s_World",
+      "url": "https://en.wikipedia.org/wiki/Sophie%27s_World",
       "id": 40
     },
     {
       "title": "Angels & Demons",
       "author": "Dan Brown",
       "publicationYear": "2000",
-      "wikiLink": "https://en.wikipedia.org/wiki/Angels_%26_Demons",
+      "url": "https://en.wikipedia.org/wiki/Angels_%26_Demons",
       "id": 41
     },
     {
       "title": "Kane and Abel",
       "author": "Jeffrey Archer",
       "publicationYear": "1979",
-      "wikiLink": "https://en.wikipedia.org/wiki/Kane_and_Abel_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Kane_and_Abel_(novel)",
       "id": 42
     },
     {
       "title": "The Diary of a Young Girl",
       "author": "Anne Frank",
       "publicationYear": "1947",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl",
+      "url": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl",
       "id": 43
     },
     {
       "title": "The Thorn Birds",
       "author": "Colleen McCullough",
       "publicationYear": "1977",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Thorn_Birds",
+      "url": "https://en.wikipedia.org/wiki/The_Thorn_Birds",
       "id": 44
     },
     {
       "title": "The Purpose Driven Life",
       "author": "Rick Warren",
       "publicationYear": "2002",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Purpose_Driven_Life",
+      "url": "https://en.wikipedia.org/wiki/The_Purpose_Driven_Life",
       "id": 45
     },
     {
       "title": "The Kite Runner",
       "author": "Khaled Hosseini",
       "publicationYear": "2003",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Kite_Runner",
+      "url": "https://en.wikipedia.org/wiki/The_Kite_Runner",
       "id": 46
     },
     {
       "title": "Valley of the Dolls",
       "author": "Jacqueline Susann",
       "publicationYear": "1966",
-      "wikiLink": "https://en.wikipedia.org/wiki/Valley_of_the_Dolls",
+      "url": "https://en.wikipedia.org/wiki/Valley_of_the_Dolls",
       "id": 47
     },
     {
       "title": "How to Win Friends and Influence People",
       "author": "Dale Carnegie",
       "publicationYear": "1936",
-      "wikiLink": "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People",
+      "url": "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People",
       "id": 48
     },
     {
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "publicationYear": "1925",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
       "id": 49
     },
     {
       "title": "Gone with the Wind",
       "author": "Margaret Mitchell",
       "publicationYear": "1936",
-      "wikiLink": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)",
       "id": 50
     },
     {
       "title": "Rebecca",
       "author": "Daphne du Maurier",
       "publicationYear": "1938",
-      "wikiLink": "https://en.wikipedia.org/wiki/Rebecca_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Rebecca_(novel)",
       "id": 51
     },
     {
       "title": "Nineteen Eighty-Four",
       "author": "George Orwell",
       "publicationYear": "1949",
-      "wikiLink": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+      "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
       "id": 52
     },
     {
       "title": "The Girl with the Dragon Tattoo",
       "author": "Stieg Larsson",
       "publicationYear": "2005",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo",
+      "url": "https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo",
       "id": 53
     },
     {
       "title": "The Lost Symbol",
       "author": "Dan Brown",
       "publicationYear": "2009",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Lost_Symbol",
+      "url": "https://en.wikipedia.org/wiki/The_Lost_Symbol",
       "id": 54
     },
     {
       "title": "The Hunger Games",
       "author": "Suzanne Collins",
       "publicationYear": "2008",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Hunger_Games_(novel)",
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games_(novel)",
       "id": 55
     },
     {
       "title": "James and the Giant Peach",
       "author": "Roald Dahl",
       "publicationYear": "1961",
-      "wikiLink": "https://en.wikipedia.org/wiki/James_and_the_Giant_Peach",
+      "url": "https://en.wikipedia.org/wiki/James_and_the_Giant_Peach",
       "id": 56
     },
     {
       "title": "Who Moved My Cheese?",
       "author": "Spencer Johnson",
       "publicationYear": "1998",
-      "wikiLink": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F",
+      "url": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F",
       "id": 57
     },
     {
       "title": "A Brief History of Time: From the Big Bang to Black Holes",
       "author": "Stephen Hawking",
       "publicationYear": "1988",
-      "wikiLink": "https://en.wikipedia.org/wiki/A_Brief_History_of_Time",
+      "url": "https://en.wikipedia.org/wiki/A_Brief_History_of_Time",
       "id": 58
     },
     {
       "title": "The Wind in the Willows",
       "author": "Kenneth Grahame",
       "publicationYear": "1908",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows",
+      "url": "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows",
       "id": 59
     },
     {
       "title": "The 7 Habits of Highly Effective People",
       "author": "Stephen R. Covey",
       "publicationYear": "1989",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People",
+      "url": "https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People",
       "id": 60
     },
     {
       "title": "The Fault in Our Stars",
       "author": "John Green",
       "publicationYear": "2012",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars",
+      "url": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars",
       "id": 61
     },
     {
       "title": "The Girl on the Train",
       "author": "Paula Hawkins",
       "publicationYear": "2015",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Girl_on_the_Train_(novel)",
+      "url": "https://en.wikipedia.org/wiki/The_Girl_on_the_Train_(novel)",
       "id": 62
     },
     {
       "title": "The Shack",
       "author": "William P Young",
       "publicationYear": "2007",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Shack",
+      "url": "https://en.wikipedia.org/wiki/The_Shack",
       "id": 63
     },
     {
       "title": "Uncle Styopa",
       "author": "Sergey Mikhalkov",
       "publicationYear": "1936",
-      "wikiLink": "https://en.wikipedia.org/wiki/Uncle_Styopa",
+      "url": "https://en.wikipedia.org/wiki/Uncle_Styopa",
       "id": 64
     },
     {
       "title": "The Godfather",
       "author": "Mario Puzo",
       "publicationYear": "1969",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Godfather_(novel)",
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_(novel)",
       "id": 65
     },
     {
       "title": "Love Story",
       "author": "Erich Segal",
       "publicationYear": "1970",
-      "wikiLink": "https://en.wikipedia.org/wiki/Love_Story_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Love_Story_(novel)",
       "id": 66
     },
     {
       "title": "Catching Fire",
       "author": "Suzanne Collins",
       "publicationYear": "2009",
-      "wikiLink": "https://en.wikipedia.org/wiki/Catching_Fire",
+      "url": "https://en.wikipedia.org/wiki/Catching_Fire",
       "id": 67
     },
     {
       "title": "Mockingjay",
       "author": "Suzanne Collins",
       "publicationYear": "2010",
-      "wikiLink": "https://en.wikipedia.org/wiki/Mockingjay",
+      "url": "https://en.wikipedia.org/wiki/Mockingjay",
       "id": 68
     },
     {
       "title": "Kitchen",
       "author": "Banana Yoshimoto",
       "publicationYear": "1988",
-      "wikiLink": "https://en.wikipedia.org/wiki/Kitchen_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Kitchen_(novel)",
       "id": 69
     },
     {
       "title": "Andromeda: A Space-Age Tale",
       "author": "Ivan Yefremov",
       "publicationYear": "1957",
-      "wikiLink": "https://en.wikipedia.org/wiki/Andromeda_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Andromeda_(novel)",
       "id": 70
     },
     {
       "title": "Autobiography of a Yogi",
       "author": "Paramahansa Yogananda",
       "publicationYear": "1946",
-      "wikiLink": "https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi",
+      "url": "https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi",
       "id": 71
     },
     {
       "title": "Gone Girl",
       "author": "Gillian Flynn",
       "publicationYear": "2012",
-      "wikiLink": "https://en.wikipedia.org/wiki/Gone_Girl_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Gone_Girl_(novel)",
       "id": 72
     },
     {
       "title": "All Quiet on the Western Front",
       "author": "Erich Maria Remarque",
       "publicationYear": "1929",
-      "wikiLink": "https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front",
+      "url": "https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front",
       "id": 73
     },
     {
       "title": "The Bermuda Triangle",
       "author": "Charles Berlitz",
       "publicationYear": "1974",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Bermuda_Triangle_(book)",
+      "url": "https://en.wikipedia.org/wiki/The_Bermuda_Triangle_(book)",
       "id": 74
     },
     {
       "title": "Things Fall Apart",
       "author": "Chinua Achebe",
       "publicationYear": "1958",
-      "wikiLink": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+      "url": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
       "id": 75
     },
     {
       "title": "Animal Farm",
       "author": "George Orwell",
       "publicationYear": "1945",
-      "wikiLink": "https://en.wikipedia.org/wiki/Animal_Farm",
+      "url": "https://en.wikipedia.org/wiki/Animal_Farm",
       "id": 76
     },
     {
       "title": "Wolf Totem",
       "author": "Jiang Rong",
       "publicationYear": "2004",
-      "wikiLink": "https://en.wikipedia.org/wiki/Wolf_Totem",
+      "url": "https://en.wikipedia.org/wiki/Wolf_Totem",
       "id": 77
     },
     {
       "title": "Jaws",
       "author": "Peter Benchley",
       "publicationYear": "1974",
-      "wikiLink": "https://en.wikipedia.org/wiki/Jaws_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Jaws_(novel)",
       "id": 78
     },
     {
       "title": "The Women's Room",
       "author": "Marilyn French",
       "publicationYear": "1977",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Women%27s_Room",
+      "url": "https://en.wikipedia.org/wiki/The_Women%27s_Room",
       "id": 79
     },
     {
       "title": "Adventures of Huckleberry Finn",
       "author": "Mark Twain",
       "publicationYear": "1884",
-      "wikiLink": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
+      "url": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
       "id": 80
     },
     {
       "title": "The Secret Diary of Adrian Mole, Aged 13¾",
       "author": "Sue Townsend",
       "publicationYear": "1982",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Secret_Diary_of_Adrian_Mole,_Aged_13%C2%BE",
+      "url": "https://en.wikipedia.org/wiki/The_Secret_Diary_of_Adrian_Mole,_Aged_13%C2%BE",
       "id": 81
     },
     {
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
       "publicationYear": "1813",
-      "wikiLink": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
       "id": 82
     },
     {
       "title": "Where the Wild Things Are",
       "author": "Maurice Sendak",
       "publicationYear": "1963",
-      "wikiLink": "https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are",
+      "url": "https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are",
       "id": 83
     },
     {
       "title": "The Power of Positive Thinking",
       "author": "Norman Vincent Peale",
       "publicationYear": "1952",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Power_of_Positive_Thinking",
+      "url": "https://en.wikipedia.org/wiki/The_Power_of_Positive_Thinking",
       "id": 84
     },
     {
       "title": "The Secret",
       "author": "Rhonda Byrne",
       "publicationYear": "2006",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Secret_(Byrne_book)",
+      "url": "https://en.wikipedia.org/wiki/The_Secret_(Byrne_book)",
       "id": 85
     },
     {
       "title": "Fear of Flying",
       "author": "Erica Jong",
       "publicationYear": "1973",
-      "wikiLink": "https://en.wikipedia.org/wiki/Fear_of_Flying_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Fear_of_Flying_(novel)",
       "id": 86
     },
     {
       "title": "Dune",
       "author": "Frank Herbert",
       "publicationYear": "1965",
-      "wikiLink": "https://en.wikipedia.org/wiki/Dune_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Dune_(novel)",
       "id": 87
     },
     {
       "title": "Charlie and the Chocolate Factory",
       "author": "Roald Dahl",
       "publicationYear": "1964",
-      "wikiLink": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory",
+      "url": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory",
       "id": 88
     },
     {
       "title": "The Naked Ape",
       "author": "Desmond Morris",
       "publicationYear": "1967",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Naked_Ape",
+      "url": "https://en.wikipedia.org/wiki/The_Naked_Ape",
       "id": 89
     },
     {
       "title": "Awareness: The Perils and Opportunities of Reality",
       "author": "Anthony De Mello",
       "publicationYear": "1992",
-      "wikiLink": "",
+      "url": "",
       "id": 90
     },
     {
       "title": "Matilda",
       "author": "Roald Dahl",
       "publicationYear": "1988",
-      "wikiLink": "https://en.wikipedia.org/wiki/Matilda_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Matilda_(novel)",
       "id": 91
     },
     {
       "title": "The Book Thief",
       "author": "Marcus Zusak",
       "publicationYear": "2005",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Book_Thief_(book)",
+      "url": "https://en.wikipedia.org/wiki/The_Book_Thief_(book)",
       "id": 92
     },
     {
       "title": "The Horse Whisperer",
       "author": "Nicholas Evans",
       "publicationYear": "1995",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Horse_Whisperer_(book)",
+      "url": "https://en.wikipedia.org/wiki/The_Horse_Whisperer_(book)",
       "id": 93
     },
     {
       "title": "Goodnight Moon",
       "author": "Margaret Wise Brown",
       "publicationYear": "1947",
-      "wikiLink": "https://en.wikipedia.org/wiki/Goodnight_Moon",
+      "url": "https://en.wikipedia.org/wiki/Goodnight_Moon",
       "id": 94
     },
     {
       "title": "Fifty Shades of Grey",
       "author": "E.L. James",
       "publicationYear": "2011",
-      "wikiLink": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey",
+      "url": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey",
       "id": 95
     },
     {
       "title": "The Outsiders",
       "author": "S.E. Hilton",
       "publicationYear": "1967",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Outsiders_(novel)",
+      "url": "https://en.wikipedia.org/wiki/The_Outsiders_(novel)",
       "id": 96
     },
     {
       "title": "The Grapes of Wrath",
       "author": "John Steinbeck",
       "publicationYear": "1939",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
+      "url": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
       "id": 97
     },
     {
       "title": "The Hitchhiker's Guide to the Galaxy",
       "author": "Douglas Adams",
       "publicationYear": "1979",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)",
+      "url": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)",
       "id": 98
     },
     {
       "title": "The Cat in the Hat",
       "author": "Dr. Suess",
       "publicationYear": "1957",
-      "wikiLink": "https://en.wikipedia.org/wiki/The_Cat_in_the_Hat",
+      "url": "https://en.wikipedia.org/wiki/The_Cat_in_the_Hat",
       "id": 99
     },
     {
       "title": "Rosemary's Baby",
       "author": "Ira Levin",
       "publicationYear": "1967",
-      "wikiLink": "https://en.wikipedia.org/wiki/Rosemary%27s_Baby_(novel)",
+      "url": "https://en.wikipedia.org/wiki/Rosemary%27s_Baby_(novel)",
       "id": 100
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "publicationYear": "1946",
+      "url": "https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning",
+      "id": 101
+    },
+    {
+      "title": "Travels with Charley: In Search of America",
+      "author": "John Steinbeck",
+      "publicationYear": "1962",
+      "url": "https://en.wikipedia.org/wiki/Travels_with_Charley",
+      "id": 102
+    },
+    {
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "publicationYear": "2018",
+      "url": "https://en.wikipedia.org/wiki/The_Overstory",
+      "id": 103
+    },
+    {
+      "title": "Of Wolves and Men",
+      "author": "Barry Lopez",
+      "publicationYear": "1978",
+      "url": "https://www.goodreads.com/book/show/743936.Of_Wolves_and_Men",
+      "id": 104
+    },
+    {
+      "title": "The Master Key System",
+      "author": "Charles F. Haanel",
+      "publicationYear": "1916",
+      "url": "https://en.wikipedia.org/wiki/The_Master_Key_System",
+      "id": 105
+    },
+    {
+      "title": "lerjfglejrhfgjl",
+      "author": "lkrajgaeilrgj",
+      "publicationYear": "2020",
+      "url": "",
+      "id": 106
     }
   ],
-  "userBooks": [],
+  "userBooks": [
+    {
+      "bookId": 101,
+      "userId": 1,
+      "shelfId": 3,
+      "dateAdded": "12/10/2021",
+      "dateRead": "2021-06-15",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "bookId": 102,
+      "shelfId": 3,
+      "userId": 1,
+      "url": "https://en.wikipedia.org/wiki/Travels_with_Charley",
+      "dateAdded": "12/10/2021",
+      "dateRead": "2021-09-17"
+    },
+    {
+      "bookId": 103,
+      "userId": 1,
+      "shelfId": 3,
+      "dateAdded": "12/10/2021",
+      "dateRead": "2021-05-22",
+      "id": 3
+    },
+    {
+      "bookId": 104,
+      "userId": 1,
+      "shelfId": 2,
+      "dateAdded": "12/10/2021",
+      "dateRead": "",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "bookId": 105,
+      "shelfId": 1,
+      "userId": 1,
+      "url": "https://en.wikipedia.org/wiki/The_Master_Key_System",
+      "dateAdded": "12/10/2021",
+      "dateRead": ""
+    }
+  ],
   "shelves": [
     {
       "id": 1,
@@ -754,7 +832,51 @@
       "name": "Read"
     }
   ],
-  "bookNotes": [],
+  "bookNotes": [
+    {
+      "userBookId": 4,
+      "note": "Just finished part three of this four part book! I now have a different perception of wolves in the context of their relationship with human beings.",
+      "page": "200",
+      "dateAdded": "December 10th 2021, 1:44 pm",
+      "id": 1
+    }
+  ],
   "follows": [],
-  "posts": []
+  "posts": [
+    {
+      "bookId": 101,
+      "userId": 1,
+      "shelfId": 3,
+      "dateCreated": "December 10th 2021, 10:17:46 am",
+      "id": 1
+    },
+    {
+      "bookId": 102,
+      "userId": 1,
+      "shelfId": 3,
+      "dateCreated": "December 10th 2021, 10:19:36 am",
+      "id": 2
+    },
+    {
+      "bookId": 103,
+      "userId": 1,
+      "shelfId": 3,
+      "dateCreated": "December 10th 2021, 10:20:30 am",
+      "id": 3
+    },
+    {
+      "bookId": 104,
+      "userId": 1,
+      "shelfId": 2,
+      "dateCreated": "December 10th 2021, 10:35:33 am",
+      "id": 4
+    },
+    {
+      "bookId": 105,
+      "userId": 1,
+      "shelfId": 1,
+      "dateCreated": "December 10th 2021, 11:10:35 am",
+      "id": 7
+    }
+  ]
 }
