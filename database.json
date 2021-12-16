@@ -35,6 +35,18 @@
       "lastName": "Freeman",
       "email": "gordon@halflife.com",
       "id": 6
+    },
+    {
+      "firstName": "John",
+      "lastName": "Ruth",
+      "email": "john@thehangman.com",
+      "id": 7
+    },
+    {
+      "firstName": "Guest",
+      "lastName": "User",
+      "email": "demo@email.com",
+      "id": 8
     }
   ],
   "books": [
@@ -658,7 +670,7 @@
       "title": "Awareness: The Perils and Opportunities of Reality",
       "author": "Anthony De Mello",
       "publicationYear": "1992",
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/94318.Awareness",
       "id": 90
     },
     {
@@ -767,10 +779,10 @@
       "id": 105
     },
     {
-      "title": "lerjfglejrhfgjl",
-      "author": "lkrajgaeilrgj",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
       "publicationYear": "2020",
-      "url": "",
+      "url": "https://en.wikipedia.org/wiki/The_Midnight_Library_(novel)",
       "id": 106
     }
   ],
@@ -788,34 +800,56 @@
       "bookId": 102,
       "shelfId": 3,
       "userId": 1,
-      "url": "https://en.wikipedia.org/wiki/Travels_with_Charley",
       "dateAdded": "12/10/2021",
       "dateRead": "2021-09-17"
     },
     {
+      "id": 3,
       "bookId": 103,
-      "userId": 1,
       "shelfId": 3,
+      "userId": 1,
       "dateAdded": "12/10/2021",
-      "dateRead": "2021-05-22",
-      "id": 3
+      "dateRead": "2021-05-22"
     },
     {
+      "id": 4,
       "bookId": 104,
-      "userId": 1,
       "shelfId": 2,
+      "userId": 1,
       "dateAdded": "12/10/2021",
-      "dateRead": "",
-      "id": 4
+      "dateRead": ""
     },
     {
       "id": 5,
       "bookId": 105,
       "shelfId": 1,
       "userId": 1,
-      "url": "https://en.wikipedia.org/wiki/The_Master_Key_System",
       "dateAdded": "12/10/2021",
       "dateRead": ""
+    },
+    {
+      "id": 6,
+      "bookId": 106,
+      "shelfId": 1,
+      "userId": 1,
+      "dateAdded": "12/12/2021",
+      "dateRead": ""
+    },
+    {
+      "bookId": 36,
+      "userId": 1,
+      "shelfId": 1,
+      "dateAdded": "12/15/2021",
+      "dateRead": "",
+      "id": 7
+    },
+    {
+      "bookId": 13,
+      "userId": 1,
+      "shelfId": 3,
+      "dateAdded": "12/15/2021",
+      "dateRead": "2021-09-22",
+      "id": 8
     }
   ],
   "shelves": [
@@ -841,7 +875,14 @@
       "id": 1
     }
   ],
-  "follows": [],
+  "follows": [
+    {
+      "userId": 7,
+      "followedUserId": 1,
+      "dateFollowed": "December 14th 2021",
+      "id": 1
+    }
+  ],
   "posts": [
     {
       "bookId": 101,
@@ -877,6 +918,27 @@
       "shelfId": 1,
       "dateCreated": "December 10th 2021, 11:10:35 am",
       "id": 7
+    },
+    {
+      "bookId": 106,
+      "userId": 1,
+      "shelfId": 1,
+      "dateCreated": "December 12th 2021, 8:03:18 pm",
+      "id": 8
+    },
+    {
+      "bookId": 36,
+      "userId": 1,
+      "shelfId": 1,
+      "dateCreated": "December 15th 2021, 1:14:35 pm",
+      "id": 9
+    },
+    {
+      "bookId": 13,
+      "userId": 1,
+      "shelfId": 3,
+      "dateCreated": "December 15th 2021, 1:15:03 pm",
+      "id": 10
     }
   ]
 }
