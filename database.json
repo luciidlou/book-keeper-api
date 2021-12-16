@@ -830,26 +830,178 @@
     {
       "id": 6,
       "bookId": 106,
-      "shelfId": 1,
+      "shelfId": 2,
       "userId": 1,
       "dateAdded": "12/12/2021",
       "dateRead": ""
     },
     {
       "bookId": 36,
-      "userId": 1,
+      "userId": 2,
       "shelfId": 1,
-      "dateAdded": "12/15/2021",
+      "dateAdded": "12/16/2021",
       "dateRead": "",
       "id": 7
     },
     {
-      "bookId": 13,
-      "userId": 1,
+      "id": 8,
+      "bookId": 4,
       "shelfId": 3,
-      "dateAdded": "12/15/2021",
-      "dateRead": "2021-09-22",
-      "id": 8
+      "userId": 2,
+      "dateAdded": "12/16/2021",
+      "dateRead": "2018-09-24"
+    },
+    {
+      "bookId": 87,
+      "userId": 2,
+      "shelfId": 2,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 9
+    },
+    {
+      "bookId": 17,
+      "userId": 2,
+      "shelfId": 3,
+      "dateAdded": "12/16/2021",
+      "dateRead": "2019-02-25",
+      "id": 10
+    },
+    {
+      "bookId": 5,
+      "userId": 3,
+      "shelfId": 2,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 11
+    },
+    {
+      "bookId": 41,
+      "userId": 3,
+      "shelfId": 1,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 12
+    },
+    {
+      "bookId": 75,
+      "userId": 3,
+      "shelfId": 3,
+      "dateAdded": "12/16/2021",
+      "dateRead": "2021-06-13",
+      "id": 13
+    },
+    {
+      "bookId": 44,
+      "userId": 4,
+      "shelfId": 2,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 14
+    },
+    {
+      "bookId": 54,
+      "userId": 4,
+      "shelfId": 3,
+      "dateAdded": "12/16/2021",
+      "dateRead": "2020-10-19",
+      "id": 15
+    },
+    {
+      "bookId": 64,
+      "userId": 4,
+      "shelfId": 1,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 16
+    },
+    {
+      "bookId": 45,
+      "userId": 5,
+      "shelfId": 2,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 17
+    },
+    {
+      "bookId": 28,
+      "userId": 5,
+      "shelfId": 3,
+      "dateAdded": "12/16/2021",
+      "dateRead": "2020-09-23",
+      "id": 18
+    },
+    {
+      "bookId": 37,
+      "userId": 5,
+      "shelfId": 1,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 19
+    },
+    {
+      "bookId": 94,
+      "userId": 6,
+      "shelfId": 2,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 20
+    },
+    {
+      "bookId": 22,
+      "userId": 6,
+      "shelfId": 1,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 21
+    },
+    {
+      "bookId": 98,
+      "userId": 6,
+      "shelfId": 3,
+      "dateAdded": "12/16/2021",
+      "dateRead": "2020-08-05",
+      "id": 22
+    },
+    {
+      "bookId": 73,
+      "userId": 7,
+      "shelfId": 2,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 23
+    },
+    {
+      "bookId": 32,
+      "userId": 7,
+      "shelfId": 1,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 24
+    },
+    {
+      "bookId": 99,
+      "userId": 7,
+      "shelfId": 3,
+      "dateAdded": "12/16/2021",
+      "dateRead": "2019-06-16",
+      "id": 25
+    },
+    {
+      "bookId": 13,
+      "userId": 7,
+      "shelfId": 1,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 26
+    },
+    {
+      "bookId": 56,
+      "userId": 7,
+      "shelfId": 1,
+      "dateAdded": "12/16/2021",
+      "dateRead": "",
+      "id": 27
     }
   ],
   "shelves": [
@@ -881,6 +1033,42 @@
       "followedUserId": 1,
       "dateFollowed": "December 14th 2021",
       "id": 1
+    },
+    {
+      "userId": 2,
+      "followedUserId": 1,
+      "dateFollowed": "December 16th 2021",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "followedUserId": 7,
+      "dateFollowed": "December 16th 2021",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "followedUserId": 7,
+      "dateFollowed": "December 16th 2021",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "followedUserId": 2,
+      "dateFollowed": "December 16th 2021",
+      "id": 5
+    },
+    {
+      "userId": 7,
+      "followedUserId": 2,
+      "dateFollowed": "December 16th 2021",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "followedUserId": 5,
+      "dateFollowed": "December 16th 2021",
+      "id": 7
     }
   ],
   "posts": [
@@ -888,57 +1076,254 @@
       "bookId": 101,
       "userId": 1,
       "shelfId": 3,
-      "dateCreated": "December 10th 2021, 10:17:46 am",
+      "dateCreated": "June 10th 2021, 10:17:46 am",
       "id": 1
     },
     {
       "bookId": 102,
       "userId": 1,
       "shelfId": 3,
-      "dateCreated": "December 10th 2021, 10:19:36 am",
+      "dateCreated": "January 18th 2021, 10:19:36 am",
       "id": 2
     },
     {
       "bookId": 103,
       "userId": 1,
       "shelfId": 3,
-      "dateCreated": "December 10th 2021, 10:20:30 am",
+      "dateCreated": "April 1st 2021, 10:20:30 am",
       "id": 3
     },
     {
       "bookId": 104,
       "userId": 1,
       "shelfId": 2,
-      "dateCreated": "December 10th 2021, 10:35:33 am",
+      "dateCreated": "December 11th 2021, 10:35:33 am",
       "id": 4
     },
     {
       "bookId": 105,
       "userId": 1,
       "shelfId": 1,
-      "dateCreated": "December 10th 2021, 11:10:35 am",
+      "dateCreated": "November 19th 2021, 11:10:35 am",
       "id": 7
     },
     {
       "bookId": 106,
       "userId": 1,
       "shelfId": 1,
-      "dateCreated": "December 12th 2021, 8:03:18 pm",
+      "dateCreated": "July 9th 2021, 8:03:18 pm",
       "id": 8
     },
     {
       "bookId": 36,
-      "userId": 1,
+      "userId": 2,
       "shelfId": 1,
-      "dateCreated": "December 15th 2021, 1:14:35 pm",
+      "dateCreated": "March 8th 2021, 1:20:24 pm",
       "id": 9
     },
     {
-      "bookId": 13,
-      "userId": 1,
-      "shelfId": 3,
-      "dateCreated": "December 15th 2021, 1:15:03 pm",
+      "bookId": 4,
+      "userId": 2,
+      "shelfId": 2,
+      "dateCreated": "May 16th 2021, 1:20:39 pm",
       "id": 10
+    },
+    {
+      "bookId": 87,
+      "userId": 2,
+      "shelfId": 2,
+      "dateCreated": "September 12th 2021, 1:20:51 pm",
+      "id": 11
+    },
+    {
+      "bookId": 4,
+      "userId": 2,
+      "shelfId": 3,
+      "dateCreated": "February 22th 2021, 1:21:02 pm",
+      "id": 12
+    },
+    {
+      "bookId": 17,
+      "userId": 2,
+      "shelfId": 3,
+      "dateCreated": "April 4th 2021, 1:22:05 pm",
+      "id": 13
+    },
+    {
+      "bookId": 5,
+      "userId": 3,
+      "shelfId": 2,
+      "dateCreated": "August 16th 2021, 1:22:51 pm",
+      "id": 14
+    },
+    {
+      "bookId": 41,
+      "userId": 3,
+      "shelfId": 1,
+      "dateCreated": "December 5th 2021, 1:23:10 pm",
+      "id": 15
+    },
+    {
+      "bookId": 75,
+      "userId": 3,
+      "shelfId": 3,
+      "dateCreated": "January 6th 2021, 1:23:27 pm",
+      "id": 16
+    },
+    {
+      "bookId": 44,
+      "userId": 4,
+      "shelfId": 2,
+      "dateCreated": "May 14th 2021, 1:24:08 pm",
+      "id": 17
+    },
+    {
+      "bookId": 54,
+      "userId": 4,
+      "shelfId": 3,
+      "dateCreated": "June 16th 2021, 1:24:19 pm",
+      "id": 18
+    },
+    {
+      "bookId": 64,
+      "userId": 4,
+      "shelfId": 1,
+      "dateCreated": "November 19th 2021, 1:24:30 pm",
+      "id": 19
+    },
+    {
+      "bookId": 45,
+      "userId": 5,
+      "shelfId": 2,
+      "dateCreated": "August 7th 2021, 1:26:28 pm",
+      "id": 20
+    },
+    {
+      "bookId": 28,
+      "userId": 5,
+      "shelfId": 3,
+      "dateCreated": "March 30th 2021, 1:26:44 pm",
+      "id": 21
+    },
+    {
+      "bookId": 37,
+      "userId": 5,
+      "shelfId": 1,
+      "dateCreated": "July 2nd 2021, 1:26:52 pm",
+      "id": 22
+    },
+    {
+      "bookId": 94,
+      "userId": 6,
+      "shelfId": 2,
+      "dateCreated": "Septemeber 11th 2021, 1:27:14 pm",
+      "id": 23
+    },
+    {
+      "bookId": 22,
+      "userId": 6,
+      "shelfId": 1,
+      "dateCreated": "December 25th 2021, 1:27:22 pm",
+      "id": 24
+    },
+    {
+      "bookId": 98,
+      "userId": 6,
+      "shelfId": 3,
+      "dateCreated": "April 23th 2021, 1:27:37 pm",
+      "id": 25
+    },
+    {
+      "bookId": 73,
+      "userId": 7,
+      "shelfId": 2,
+      "dateCreated": "May 25th 2021, 1:27:59 pm",
+      "id": 26
+    },
+    {
+      "bookId": 32,
+      "userId": 7,
+      "shelfId": 1,
+      "dateCreated": "November 13th 2021, 1:28:04 pm",
+      "id": 27
+    },
+    {
+      "bookId": 99,
+      "userId": 7,
+      "shelfId": 3,
+      "dateCreated": "March 21st 2021, 1:28:16 pm",
+      "id": 28
+    },
+    {
+      "bookId": 13,
+      "userId": 7,
+      "shelfId": 1,
+      "dateCreated": "January 16th 2021, 1:28:24 pm",
+      "id": 29
+    },
+    {
+      "bookId": 56,
+      "userId": 7,
+      "shelfId": 1,
+      "dateCreated": "May 13th 2021, 1:28:32 pm",
+      "id": 30
+    }
+  ],
+  "likes": [
+    {
+      "userId": 2,
+      "postId": 8,
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "postId": 27,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "postId": 27,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "postId": 11,
+      "id": 5
+    },
+    {
+      "userId": 7,
+      "postId": 11,
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "postId": 7,
+      "id": 7
+    },
+    {
+      "userId": 7,
+      "postId": 10,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "postId": 26,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "postId": 10,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "postId": 30,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "postId": 21,
+      "id": 12
     }
   ]
 }
