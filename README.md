@@ -10,7 +10,7 @@ npm i json-server
 
 <p style="font-size: 20px; font-weight: 500;">• Bookkeeper Repository</p>
 
-<a href="https://github.com/luciidlou/book-keeper" target="_blank"><img src="https://img.shields.io/badge/-Click%20Here-blue" alt="Bookkeeper Client-Side Repository" style="height: 30px !important; width: 100px !important;" /></a>
+<a href="https://github.com/luciidlou/book-keeper" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Click%20Here-blue" alt="Bookkeeper Client-Side Repository" style="height: 30px !important; width: 100px !important;" /></a>
 
 ### Installation
 
