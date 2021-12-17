@@ -784,30 +784,23 @@
       "publicationYear": "2020",
       "url": "https://en.wikipedia.org/wiki/The_Midnight_Library_(novel)",
       "id": 106
-    },
-    {
-      "title": "test book",
-      "author": "Author Person",
-      "publicationYear": "2019",
-      "url": "https://en.wikipedia.org",
-      "id": 107
     }
   ],
   "userBooks": [
     {
+      "id": 1,
       "bookId": 101,
-      "userId": 1,
       "shelfId": 3,
-      "dateAdded": "12/10/2021",
-      "dateRead": "2021-06-15",
-      "id": 1
+      "userId": 1,
+      "dateAdded": 1635423358000,
+      "dateRead": "2021-06-15"
     },
     {
       "id": 2,
       "bookId": 102,
       "shelfId": 3,
       "userId": 1,
-      "dateAdded": "12/10/2021",
+      "dateAdded": 1626926548000,
       "dateRead": "2021-09-17"
     },
     {
@@ -815,7 +808,7 @@
       "bookId": 103,
       "shelfId": 3,
       "userId": 1,
-      "dateAdded": "12/10/2021",
+      "dateAdded": 1631657329000,
       "dateRead": "2021-05-22"
     },
     {
@@ -823,7 +816,7 @@
       "bookId": 104,
       "shelfId": 2,
       "userId": 1,
-      "dateAdded": "12/10/2021",
+      "dateAdded": 1635777219000,
       "dateRead": ""
     },
     {
@@ -831,7 +824,7 @@
       "bookId": 105,
       "shelfId": 1,
       "userId": 1,
-      "dateAdded": "12/10/2021",
+      "dateAdded": 1616172969000,
       "dateRead": ""
     },
     {
@@ -839,14 +832,14 @@
       "bookId": 106,
       "shelfId": 1,
       "userId": 1,
-      "dateAdded": "12/12/2021",
+      "dateAdded": 1627852641000,
       "dateRead": ""
     },
     {
       "bookId": 36,
       "userId": 2,
       "shelfId": 1,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1622540783000,
       "dateRead": "",
       "id": 7
     },
@@ -855,14 +848,14 @@
       "bookId": 4,
       "shelfId": 3,
       "userId": 2,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1616509206000,
       "dateRead": "2018-09-24"
     },
     {
       "bookId": 87,
       "userId": 2,
       "shelfId": 2,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1618810220000,
       "dateRead": "",
       "id": 9
     },
@@ -870,7 +863,7 @@
       "bookId": 17,
       "userId": 2,
       "shelfId": 3,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1613161953000,
       "dateRead": "2019-02-25",
       "id": 10
     },
@@ -878,7 +871,7 @@
       "bookId": 5,
       "userId": 3,
       "shelfId": 2,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1610177510000,
       "dateRead": "",
       "id": 11
     },
@@ -886,7 +879,7 @@
       "bookId": 41,
       "userId": 3,
       "shelfId": 1,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1617786876000,
       "dateRead": "",
       "id": 12
     },
@@ -894,7 +887,7 @@
       "bookId": 75,
       "userId": 3,
       "shelfId": 3,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1615017249000,
       "dateRead": "2021-06-13",
       "id": 13
     },
@@ -902,7 +895,7 @@
       "bookId": 44,
       "userId": 4,
       "shelfId": 2,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1635278720000,
       "dateRead": "",
       "id": 14
     },
@@ -910,7 +903,7 @@
       "bookId": 54,
       "userId": 4,
       "shelfId": 3,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1628984257000,
       "dateRead": "2020-10-19",
       "id": 15
     },
@@ -918,7 +911,7 @@
       "bookId": 64,
       "userId": 4,
       "shelfId": 1,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1630625633000,
       "dateRead": "",
       "id": 16
     },
@@ -926,7 +919,7 @@
       "bookId": 45,
       "userId": 5,
       "shelfId": 2,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1632579085000,
       "dateRead": "",
       "id": 17
     },
@@ -934,7 +927,7 @@
       "bookId": 28,
       "userId": 5,
       "shelfId": 3,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1627856670000,
       "dateRead": "2020-09-23",
       "id": 18
     },
@@ -942,7 +935,7 @@
       "bookId": 37,
       "userId": 5,
       "shelfId": 1,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1630755303000,
       "dateRead": "",
       "id": 19
     },
@@ -950,7 +943,7 @@
       "bookId": 94,
       "userId": 6,
       "shelfId": 2,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1637443658000,
       "dateRead": "",
       "id": 20
     },
@@ -958,7 +951,7 @@
       "bookId": 22,
       "userId": 6,
       "shelfId": 1,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1622511119000,
       "dateRead": "",
       "id": 21
     },
@@ -966,7 +959,7 @@
       "bookId": 98,
       "userId": 6,
       "shelfId": 3,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1632396527000,
       "dateRead": "2020-08-05",
       "id": 22
     },
@@ -974,7 +967,7 @@
       "bookId": 73,
       "userId": 7,
       "shelfId": 2,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1636025818000,
       "dateRead": "",
       "id": 23
     },
@@ -982,7 +975,7 @@
       "bookId": 32,
       "userId": 7,
       "shelfId": 1,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1631957075000,
       "dateRead": "",
       "id": 24
     },
@@ -990,7 +983,7 @@
       "bookId": 99,
       "userId": 7,
       "shelfId": 3,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1630698261000,
       "dateRead": "2019-06-16",
       "id": 25
     },
@@ -998,7 +991,7 @@
       "bookId": 13,
       "userId": 7,
       "shelfId": 1,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1610083417000,
       "dateRead": "",
       "id": 26
     },
@@ -1006,7 +999,7 @@
       "bookId": 56,
       "userId": 7,
       "shelfId": 1,
-      "dateAdded": "12/16/2021",
+      "dateAdded": 1628425915000,
       "dateRead": "",
       "id": 27
     }
@@ -1076,6 +1069,36 @@
       "followedUserId": 5,
       "dateFollowed": 1636803257000,
       "id": 7
+    },
+    {
+      "userId": 6,
+      "followedUserId": 2,
+      "dateFollowed": 1639694143105,
+      "id": 8
+    },
+    {
+      "userId": 5,
+      "followedUserId": 6,
+      "dateFollowed": 1639694163213,
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "followedUserId": 4,
+      "dateFollowed": 1639694164836,
+      "id": 10
+    },
+    {
+      "userId": 4,
+      "followedUserId": 1,
+      "dateFollowed": 1639695340954,
+      "id": 11
+    },
+    {
+      "userId": 4,
+      "followedUserId": 5,
+      "dateFollowed": 1639695346377,
+      "id": 12
     }
   ],
   "posts": [
@@ -1336,6 +1359,76 @@
       "userId": 1,
       "postId": 28,
       "id": 13
+    },
+    {
+      "userId": 6,
+      "postId": 10,
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "postId": 12,
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "postId": 13,
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "postId": 24,
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "postId": 18,
+      "id": 18
+    },
+    {
+      "userId": 5,
+      "postId": 25,
+      "id": 19
+    },
+    {
+      "userId": 5,
+      "postId": 17,
+      "id": 20
+    },
+    {
+      "userId": 5,
+      "postId": 19,
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "postId": 20,
+      "id": 22
+    },
+    {
+      "userId": 4,
+      "postId": 8,
+      "id": 23
+    },
+    {
+      "userId": 4,
+      "postId": 1,
+      "id": 24
+    },
+    {
+      "userId": 4,
+      "postId": 22,
+      "id": 25
+    },
+    {
+      "userId": 4,
+      "postId": 7,
+      "id": 26
+    },
+    {
+      "userId": 4,
+      "postId": 3,
+      "id": 27
     }
   ]
 }
