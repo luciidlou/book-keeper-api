@@ -784,6 +784,41 @@
       "publicationYear": "2020",
       "url": "https://en.wikipedia.org/wiki/The_Midnight_Library_(novel)",
       "id": 106
+    },
+    {
+      "title": "This Is Your Mind on Plants",
+      "author": "Michael Pollan",
+      "publicationYear": "2021",
+      "url": "https://www.goodreads.com/book/show/56015023-this-is-your-mind-on-plants?ac=1&from_search=true&qid=s9n2m8U8MP&rank=1",
+      "id": 107
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "author": "Ken Kesey",
+      "publicationYear": "1963",
+      "url": "https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest",
+      "id": 108
+    },
+    {
+      "title": "Einstein's Relativity and the Quantum Revolution: Modern Physics for Non-Scientists",
+      "author": "Richard Wolfson",
+      "publicationYear": "2000",
+      "url": "https://www.goodreads.com/book/show/17906571-einstein-s-relativity-and-the-quantum-revolution",
+      "id": 109
+    },
+    {
+      "title": "What's Mine Is Yours: The Rise of Collaborative Consumption",
+      "author": "Rachel Botsman",
+      "publicationYear": "2010",
+      "url": "https://www.goodreads.com/book/show/9151984-what-s-mine-is-yours",
+      "id": 110
+    },
+    {
+      "title": "Making Music. 74 Creative Strategies for Electronic Music Producers",
+      "author": "Dennis DeSantis",
+      "publicationYear": "2015",
+      "url": "https://www.goodreads.com/book/show/25168710-making-music-74-creative-strategies-for-electronic-music-producers",
+      "id": 111
     }
   ],
   "userBooks": [
@@ -793,7 +828,8 @@
       "shelfId": 3,
       "userId": 1,
       "dateAdded": 1635423358000,
-      "dateRead": "2021-06-15"
+      "dateRead": "2021-06-15",
+      "rating": 4
     },
     {
       "id": 2,
@@ -801,7 +837,8 @@
       "shelfId": 3,
       "userId": 1,
       "dateAdded": 1626926548000,
-      "dateRead": "2021-09-17"
+      "dateRead": "2021-09-17",
+      "rating": 4
     },
     {
       "id": 3,
@@ -809,7 +846,8 @@
       "shelfId": 3,
       "userId": 1,
       "dateAdded": 1631657329000,
-      "dateRead": "2021-05-22"
+      "dateRead": "2021-05-22",
+      "rating": 5
     },
     {
       "id": 4,
@@ -817,7 +855,8 @@
       "shelfId": 3,
       "userId": 1,
       "dateAdded": 1635777219000,
-      "dateRead": "2021-12-13"
+      "dateRead": "2021-12-13",
+      "rating": 3
     },
     {
       "id": 5,
@@ -825,7 +864,8 @@
       "shelfId": 1,
       "userId": 1,
       "dateAdded": 1616172969000,
-      "dateRead": ""
+      "dateRead": "",
+      "rating": 0
     },
     {
       "id": 6,
@@ -833,7 +873,8 @@
       "shelfId": 3,
       "userId": 1,
       "dateAdded": 1627852641000,
-      "dateRead": "2021-12-23"
+      "dateRead": "2021-12-23",
+      "rating": 4
     },
     {
       "bookId": 36,
@@ -841,7 +882,8 @@
       "shelfId": 1,
       "dateAdded": 1622540783000,
       "dateRead": "",
-      "id": 7
+      "id": 7,
+      "rating": 0
     },
     {
       "id": 8,
@@ -849,7 +891,8 @@
       "shelfId": 3,
       "userId": 2,
       "dateAdded": 1616509206000,
-      "dateRead": "2018-09-24"
+      "dateRead": "2018-09-24",
+      "rating": 0
     },
     {
       "bookId": 87,
@@ -857,7 +900,8 @@
       "shelfId": 2,
       "dateAdded": 1618810220000,
       "dateRead": "",
-      "id": 9
+      "id": 9,
+      "rating": 0
     },
     {
       "bookId": 17,
@@ -865,7 +909,8 @@
       "shelfId": 3,
       "dateAdded": 1613161953000,
       "dateRead": "2019-02-25",
-      "id": 10
+      "id": 10,
+      "rating": 0
     },
     {
       "bookId": 5,
@@ -873,7 +918,8 @@
       "shelfId": 2,
       "dateAdded": 1610177510000,
       "dateRead": "",
-      "id": 11
+      "id": 11,
+      "rating": 0
     },
     {
       "bookId": 41,
@@ -881,7 +927,8 @@
       "shelfId": 1,
       "dateAdded": 1617786876000,
       "dateRead": "",
-      "id": 12
+      "id": 12,
+      "rating": 0
     },
     {
       "bookId": 75,
@@ -889,7 +936,8 @@
       "shelfId": 3,
       "dateAdded": 1615017249000,
       "dateRead": "2021-06-13",
-      "id": 13
+      "id": 13,
+      "rating": 0
     },
     {
       "bookId": 44,
@@ -897,7 +945,8 @@
       "shelfId": 2,
       "dateAdded": 1635278720000,
       "dateRead": "",
-      "id": 14
+      "id": 14,
+      "rating": 0
     },
     {
       "bookId": 54,
@@ -905,7 +954,8 @@
       "shelfId": 3,
       "dateAdded": 1628984257000,
       "dateRead": "2020-10-19",
-      "id": 15
+      "id": 15,
+      "rating": 0
     },
     {
       "bookId": 64,
@@ -913,7 +963,8 @@
       "shelfId": 1,
       "dateAdded": 1630625633000,
       "dateRead": "",
-      "id": 16
+      "id": 16,
+      "rating": 0
     },
     {
       "bookId": 45,
@@ -921,7 +972,8 @@
       "shelfId": 2,
       "dateAdded": 1632579085000,
       "dateRead": "",
-      "id": 17
+      "id": 17,
+      "rating": 0
     },
     {
       "bookId": 28,
@@ -929,7 +981,8 @@
       "shelfId": 3,
       "dateAdded": 1627856670000,
       "dateRead": "2020-09-23",
-      "id": 18
+      "id": 18,
+      "rating": 0
     },
     {
       "bookId": 37,
@@ -937,7 +990,8 @@
       "shelfId": 1,
       "dateAdded": 1630755303000,
       "dateRead": "",
-      "id": 19
+      "id": 19,
+      "rating": 0
     },
     {
       "bookId": 94,
@@ -945,7 +999,8 @@
       "shelfId": 2,
       "dateAdded": 1637443658000,
       "dateRead": "",
-      "id": 20
+      "id": 20,
+      "rating": 0
     },
     {
       "bookId": 22,
@@ -953,7 +1008,8 @@
       "shelfId": 1,
       "dateAdded": 1622511119000,
       "dateRead": "",
-      "id": 21
+      "id": 21,
+      "rating": 0
     },
     {
       "bookId": 98,
@@ -961,7 +1017,8 @@
       "shelfId": 3,
       "dateAdded": 1632396527000,
       "dateRead": "2020-08-05",
-      "id": 22
+      "id": 22,
+      "rating": 0
     },
     {
       "bookId": 73,
@@ -969,7 +1026,8 @@
       "shelfId": 2,
       "dateAdded": 1636025818000,
       "dateRead": "",
-      "id": 23
+      "id": 23,
+      "rating": 0
     },
     {
       "bookId": 32,
@@ -977,7 +1035,8 @@
       "shelfId": 1,
       "dateAdded": 1631957075000,
       "dateRead": "",
-      "id": 24
+      "id": 24,
+      "rating": 0
     },
     {
       "bookId": 99,
@@ -985,7 +1044,8 @@
       "shelfId": 3,
       "dateAdded": 1630698261000,
       "dateRead": "2019-06-16",
-      "id": 25
+      "id": 25,
+      "rating": 0
     },
     {
       "bookId": 13,
@@ -993,7 +1053,8 @@
       "shelfId": 1,
       "dateAdded": 1610083417000,
       "dateRead": "",
-      "id": 26
+      "id": 26,
+      "rating": 0
     },
     {
       "bookId": 56,
@@ -1001,7 +1062,62 @@
       "shelfId": 1,
       "dateAdded": 1628425915000,
       "dateRead": "",
-      "id": 27
+      "id": 27,
+      "rating": 0
+    },
+    {
+      "bookId": 107,
+      "userId": 1,
+      "shelfId": 1,
+      "dateAdded": 1626351591000,
+      "dateRead": "",
+      "rating": 0,
+      "id": 28
+    },
+    {
+      "bookId": 108,
+      "userId": 1,
+      "shelfId": 1,
+      "dateAdded": 1634880428000,
+      "dateRead": "",
+      "rating": 0,
+      "id": 29
+    },
+    {
+      "bookId": 109,
+      "userId": 1,
+      "shelfId": 1,
+      "dateAdded": 1627794937000,
+      "dateRead": "",
+      "rating": 0,
+      "id": 30
+    },
+    {
+      "bookId": 110,
+      "userId": 1,
+      "shelfId": 1,
+      "dateAdded": 1615052204000,
+      "dateRead": "",
+      "rating": 0,
+      "id": 31
+    },
+    {
+      "bookId": 111,
+      "userId": 1,
+      "shelfId": 2,
+      "dateAdded": 1616180748000,
+      "dateRead": "",
+      "rating": 0,
+      "id": 32
+    },
+    {
+      "bookId": 90,
+      "userId": 1,
+      "shelfId": 3,
+      "dateAdded": 1623148100000,
+      "dateRead": "2020-03-11",
+      "rating": 5,
+      "id": 33
     }
   ],
   "shelves": [
@@ -1099,6 +1215,18 @@
       "followedUserId": 5,
       "dateFollowed": 1639695346377,
       "id": 12
+    },
+    {
+      "userId": 5,
+      "followedUserId": 1,
+      "dateFollowed": 1641256964996,
+      "id": 13
+    },
+    {
+      "userId": 6,
+      "followedUserId": 1,
+      "dateFollowed": 1641256988348,
+      "id": 14
     }
   ],
   "posts": [
@@ -1311,6 +1439,48 @@
       "shelfId": 3,
       "dateCreated": 1641153123506,
       "id": 32
+    },
+    {
+      "bookId": 107,
+      "userId": 1,
+      "shelfId": 1,
+      "dateCreated": 1615052204000,
+      "id": 33
+    },
+    {
+      "bookId": 108,
+      "userId": 1,
+      "shelfId": 1,
+      "dateCreated": 1627794937000,
+      "id": 34
+    },
+    {
+      "bookId": 109,
+      "userId": 1,
+      "shelfId": 1,
+      "dateCreated": 1634880428000,
+      "id": 35
+    },
+    {
+      "bookId": 110,
+      "userId": 1,
+      "shelfId": 1,
+      "dateCreated": 1626351591000,
+      "id": 36
+    },
+    {
+      "bookId": 111,
+      "userId": 1,
+      "shelfId": 2,
+      "dateCreated": 1636528538000,
+      "id": 37
+    },
+    {
+      "bookId": 90,
+      "userId": 1,
+      "shelfId": 3,
+      "dateCreated": 1634880428000,
+      "id": 38
     }
   ],
   "likes": [
@@ -1443,6 +1613,61 @@
       "userId": 1,
       "postId": 9,
       "id": 31
+    },
+    {
+      "userId": 5,
+      "postId": 32,
+      "id": 32
+    },
+    {
+      "userId": 5,
+      "postId": 31,
+      "id": 33
+    },
+    {
+      "userId": 5,
+      "postId": 37,
+      "id": 34
+    },
+    {
+      "userId": 5,
+      "postId": 1,
+      "id": 35
+    },
+    {
+      "userId": 6,
+      "postId": 32,
+      "id": 36
+    },
+    {
+      "userId": 6,
+      "postId": 31,
+      "id": 37
+    },
+    {
+      "userId": 6,
+      "postId": 37,
+      "id": 38
+    },
+    {
+      "userId": 6,
+      "postId": 35,
+      "id": 39
+    },
+    {
+      "userId": 6,
+      "postId": 8,
+      "id": 40
+    },
+    {
+      "userId": 6,
+      "postId": 34,
+      "id": 41
+    },
+    {
+      "userId": 6,
+      "postId": 36,
+      "id": 42
     }
   ]
 }
