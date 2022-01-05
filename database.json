@@ -819,6 +819,13 @@
       "publicationYear": "2015",
       "url": "https://www.goodreads.com/book/show/25168710-making-music-74-creative-strategies-for-electronic-music-producers",
       "id": 111
+    },
+    {
+      "title": "The Anthropocene Reviewed",
+      "author": "John Green",
+      "publicationYear": "2021",
+      "url": "https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed",
+      "id": 112
     }
   ],
   "userBooks": [
@@ -857,15 +864,6 @@
       "dateAdded": 1635777219000,
       "dateRead": "2021-12-13",
       "rating": 3
-    },
-    {
-      "id": 5,
-      "bookId": 105,
-      "shelfId": 1,
-      "userId": 1,
-      "dateAdded": 1616172969000,
-      "dateRead": "",
-      "rating": 0
     },
     {
       "id": 6,
@@ -1066,15 +1064,6 @@
       "rating": 0
     },
     {
-      "bookId": 107,
-      "userId": 1,
-      "shelfId": 1,
-      "dateAdded": 1626351591000,
-      "dateRead": "",
-      "rating": 0,
-      "id": 28
-    },
-    {
       "bookId": 108,
       "userId": 1,
       "shelfId": 1,
@@ -1118,6 +1107,24 @@
       "dateRead": "2020-03-11",
       "rating": 5,
       "id": 33
+    },
+    {
+      "bookId": 87,
+      "userId": 1,
+      "shelfId": 1,
+      "dateAdded": 1641410410549,
+      "dateRead": "",
+      "rating": 0,
+      "id": 34
+    },
+    {
+      "id": 35,
+      "bookId": 112,
+      "shelfId": 2,
+      "userId": 1,
+      "dateAdded": 1641410454618,
+      "dateRead": "",
+      "rating": 4
     }
   ],
   "shelves": [
@@ -1163,28 +1170,10 @@
       "id": 3
     },
     {
-      "userId": 1,
-      "followedUserId": 7,
-      "dateFollowed": 1625079620000,
-      "id": 4
-    },
-    {
-      "userId": 1,
-      "followedUserId": 2,
-      "dateFollowed": 1631283130000,
-      "id": 5
-    },
-    {
       "userId": 7,
       "followedUserId": 2,
       "dateFollowed": 1608826246000,
       "id": 6
-    },
-    {
-      "userId": 1,
-      "followedUserId": 5,
-      "dateFollowed": 1636803257000,
-      "id": 7
     },
     {
       "userId": 6,
@@ -1227,6 +1216,30 @@
       "followedUserId": 1,
       "dateFollowed": 1641256988348,
       "id": 14
+    },
+    {
+      "userId": 1,
+      "followedUserId": 2,
+      "dateFollowed": 1641410493880,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "followedUserId": 3,
+      "dateFollowed": 1641410494929,
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "followedUserId": 5,
+      "dateFollowed": 1641410495937,
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "followedUserId": 7,
+      "dateFollowed": 1641410497216,
+      "id": 18
     }
   ],
   "posts": [
@@ -1481,6 +1494,13 @@
       "shelfId": 3,
       "dateCreated": 1634880428000,
       "id": 38
+    },
+    {
+      "bookId": 112,
+      "userId": 1,
+      "shelfId": 2,
+      "dateCreated": 1641410454618,
+      "id": 40
     }
   ],
   "likes": [
@@ -1668,6 +1688,16 @@
       "userId": 6,
       "postId": 36,
       "id": 42
+    },
+    {
+      "userId": 1,
+      "postId": 15,
+      "id": 43
+    },
+    {
+      "userId": 1,
+      "postId": 28,
+      "id": 44
     }
   ]
 }
